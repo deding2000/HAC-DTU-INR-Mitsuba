@@ -28,6 +28,7 @@ dependencies = [
     "scikit-image>=0.26.0",
     "scipy>=1.13",
     "seaborn>=0.13.2",
+    "torch>=2.13.0",
     "tqdm>=4.70.0",
     "trimesh[recommend]>=4.12.2",
     "ujson5>=1.0.1",
