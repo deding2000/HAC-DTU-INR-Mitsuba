@@ -1,6 +1,8 @@
-# DTU Helsinki Asteroid Challenge (HAC)
+# DTU Helsinki Asteroid Challenge (HAC) Submission 3
 
 This repostiory contains submission(s) to the Helsinki Asteroid Challenge by the team from the Technical University of Denmark (DTU).
+
+To run this specific submission use this script: submission/submit_inr_convex_prior_mitsuba_stage2_v2_asteroids4to10.sh
 
 The data is too large to comfortably fit within the Git repository.
 
